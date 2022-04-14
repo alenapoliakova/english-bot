@@ -14,6 +14,7 @@
 
 `pip install -r requirements.txt`
 3. Заполните данные бота, создав файл .env, похожий на .env.dist. Заполните данные о боте.
+
 4. Запустите бота:
 
 `python bot.py`
