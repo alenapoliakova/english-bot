@@ -1,2 +1,4 @@
-pytelegrambotapi
 environs
+pyTelegramBotAPI==4.4.0
+pydantic==1.10.2
+python-dotenv==0.21.0
